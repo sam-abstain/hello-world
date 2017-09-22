@@ -1,0 +1,14 @@
+{
+    "name": "abstain/hello-world",
+    "authors": [
+        {
+            "name": "sam-abstain"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
